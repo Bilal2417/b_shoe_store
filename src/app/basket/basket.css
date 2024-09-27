@@ -1,0 +1,39 @@
+th{
+  font-size:  1.5em;
+}
+td{
+  font-size: 1.2em;
+}
+.table-height{
+  height: 150px;
+}
+.btn-func{
+  border: none;
+  color: #fff;
+  background-color: #1abc9c;
+  border-radius: 6px;
+  width: 60px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.btn-cross{
+  border: none;
+  color: #fff;
+  background-color: red;
+  border-radius: 6px;
+  width: 60px;
+  height: 40px;
+  font-size: 25px;
+  font-weight: 600;
+  margin-left: 10px;
+}
+.btn-cross:hover{
+  cursor: pointer;
+  background-color: rgb(175, 32, 32);
+}
+.btn-func:hover{
+  background-color: #169078;
+  cursor: pointer;
+}
